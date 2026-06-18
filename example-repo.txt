@@ -1,0 +1,2 @@
+# url to the new example repo
+https://github.com/briantsmith05/example_repo.git
